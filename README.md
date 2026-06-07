@@ -63,48 +63,6 @@ Me apasiona construir sistemas robustos que resuelvan problemas reales, desde pl
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🏢 Property Management System (PMS)
-
-Sistema completo de gestión de comunidades y propietarios.
-
-✨ Funcionalidades:
-
-* Gestión de propietarios y comunidades
-* Facturación y pagos recurrentes
-* Integración PSD2 bancaria
-* Dashboards financieros
-* Reportes PDF
-* Sistema de incidencias
-
-**Stack:** Next.js • PostgreSQL • Prisma • Azure • Docker • Stripe
-
----
-
-### 🤖 Generador de Artículos SEO con IA
-
-Plataforma backend para generación automática de contenido optimizado para buscadores.
-
-✨ Funcionalidades:
-
-* Generación mediante LLMs
-* Integración OpenAI y Anthropic
-* Investigación SEO automatizada
-* Consumo de APIs externas
-* Arquitectura escalable
-
-**Stack:** FastAPI • LangChain • OpenAI • MongoDB • Docker
-
----
-
-### 🔒 Sistema de Análisis IPSec
-
-Proyecto de investigación y monitoreo de tráfico de red bajo túneles IPSec.
-
-**Stack:** FastAPI • PostgreSQL • Scapy • Docker • Celery
-
----
 
 ## 📊 Lo que disfruto construir
 
