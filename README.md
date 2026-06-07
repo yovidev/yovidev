@@ -22,6 +22,12 @@ Me apasiona construir sistemas robustos que resuelvan problemas reales, desde pl
 
 ---
 
+## 📈 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yovidev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yovidev&layout=compact)
+
 ## 🛠️ Stack Tecnológico
 
 ### 🐍 Backend
